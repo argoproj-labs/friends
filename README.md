@@ -1,5 +1,5 @@
 # friends
-Projects which associate themselves the Argo ecosystem of projects!
+Projects which associate themselves with the Argo ecosystem of projects!
 
 
 # Adding a new project
